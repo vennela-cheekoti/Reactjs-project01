@@ -1,0 +1,14 @@
+.User{
+    display: inline-block;
+    width: 30%;
+    margin: 16px ;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 3px #eee;
+    padding: 15px;
+    text-align: center;
+   background-color: blanchedalmond;
+    font-family: cursive;
+    font-style: oblique;
+   
+
+}
